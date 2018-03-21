@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 100%;
+}
+
+#drawButton {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  font-size: larger;
+  background-color: #0081ff;
+  border-radius: 3px;
+  border: none;
+  padding: 10px 30px;
+  color: white;
+}
